@@ -65,10 +65,10 @@ TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
     
     <body>
     
-      <h1>TIPOS DE LISTAS NÃO ORDENADAS</h1>
+      <h1>TIPOS DE LISTAS ORDENADAS</h1>
 <!-- Tipos de Listas: circle, square, disc -->
       <ul type="square">
-      
+        
         <li>Notebook</li>
         <li>Rorteador</li>
     
