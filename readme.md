@@ -28,7 +28,7 @@
 
 TAGS USADAS EM FORMATAÇÃO DE TEXTO
 
-  <!doctype html>
+    <!doctype html>
   
     <head>
     
