@@ -49,3 +49,27 @@ TAGS USADAS EM FORMATAÇÃO DE TEXTO
       Para usar <strike>errado</strike>
     
     </body>
+    
+    
+TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
+
+  <!doctype html>
+  
+    <head>
+    
+      <title>Meu Estudos WEB</title>
+      
+      <meta charset="utf-8">
+    
+    </head>
+    
+    <body>
+    
+      <h1>TIPOS DE LISTAS NÃO ORDENADAS</h1>
+<!-- Tipos de Listas: circle, square, disc -->
+      <ul type="square">
+      
+        <li>Notebook</li>
+        <li>Rorteador</li>
+    
+    </body>
