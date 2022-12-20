@@ -53,7 +53,7 @@ TAGS USADAS EM FORMATAÇÃO DE TEXTO
     
 TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
 
-  <!doctype html>
+    <!doctype html>
   
     <head>
     
