@@ -65,11 +65,26 @@ TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
     
     <body>
     
-      <h1>TIPOS DE LISTAS ORDENADAS</h1>
+      <h1>TIPOS DE LISTAS NÃO ORDENADAS</h1>
       <!-- Tipos de Listas: circle, square, disc -->
       <ul type="square">
         
         <li>Notebook</li>
         <li>Rorteador</li>
+        
+      </ul>
+      
+      <h1>TIPOS DE LISTAS ORDENADAS</h1>
+      <!-- Tipos de Listas: A, 1, a, I, i -->
+      <ol type="A">
+      
+        Para usar os tipos de listas ordenadas apenas trocar entre aspas:
+        A = para listagem com o alfabeto maiúsculo
+        1 = para listagem com os números
+        a = para listagem com o alfabetos em minúscula
+        I =  para listagem com os números romanos maiúsculo
+        i = para listagem com os números romanos minúsculo
+      
+      </ol>
     
     </body>
