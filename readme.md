@@ -106,3 +106,35 @@ TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
       <a href="-LINK-"></a>
     
     </body>
+
+
+-PARA CRIACAÇÃO DE TABELAS-
+
+    <!doctype html>
+
+      <head>
+
+        <title>TABELAS</title>
+        <meta charset="utf-8">
+        
+      </head>
+
+      <body>
+
+    <!-- CRIA A TABELA -->
+        <table>
+
+    <!-- CRIA A LINHA DA TABELA -->    
+          <tr>
+
+    <!-- CRIA A LINHA PARA COLOCAR OS DADOS DENTRO DA CELULA DA TABELA -->      
+            <td></td>
+
+    <!-- CRIA A LINHA DE CABEÇALHO DA TABELA -->
+            <th></th>
+
+          </tr>
+
+        </table>
+
+      </body
