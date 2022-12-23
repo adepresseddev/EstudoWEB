@@ -121,8 +121,8 @@ TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
 
       <body>
 
-    <!-- CRIA A TABELA -->
-        <table>
+    <!-- CRIA A TABELA, E MUDA O TAMANHO DA BORDA-->
+        <table border="2">
 
     <!-- CRIA A LINHA DA TABELA -->    
           <tr>
@@ -138,3 +138,20 @@ TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
         </table>
 
       </body
+
+PODEMOS ADCIONAR IMAGENDS NA TABLE E LINKS, ATRAVES DAS TAGS 
+
+    <a href=""></a>
+
+    <<img src="" alt="">
+
+
+PODEMOS TAMBÉM DEFINIR WIDTH DE IMAGENDS COM PORCENTAGENS
+
+PARA DEFINIRMOS O TAMANHO DAS ROWS PODEMOS UTLIZAR OS CODIGOS
+
+    <!-- Usado para definir a quantidade de linhas que a data vai ocupar -->
+    <td rowspan="2">
+
+    <!-- Usado para definir a quantidade de colunas que a data irá ocupar -->
+    <td colspan="2">
