@@ -157,3 +157,37 @@ TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
 
     <!-- Usado para definir a quantidade de colunas que a data irá ocupar -->
     <td colspan="2">
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+-FORMULÁRIOS-
+
+    <!doctype html>
+
+    <head>
+
+      <title> FORMULÁRIOS </title>
+      <meta charset="utf-8">
+
+    </head>
+
+    <body>
+
+      <form>
+
+      <!-- Input pode ser usado para adcionar um tipo de inserção de dado,
+      Podendo definir o tipo com (type=""), por exemplo, text, para inserção de texto, e o name serve para dar um nome para o input, para obtenção dos dados do input -->
+        <input type="" name=''>
+
+      <!-- EXEMPLOS -->
+
+        <input type="text">
+
+        <input type="submit">
+
+        <input type="password">
+
+      </form>
+
+    </body>
