@@ -148,7 +148,7 @@ TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
 
     <a href=""></a>
 
-    <<img src="" alt="">
+    <img src="" alt="">
 
 
 -PODEMOS TAMBÉM DEFINIR WIDTH DE IMAGENDS COM PORCENTAGENS-
