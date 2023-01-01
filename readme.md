@@ -23,7 +23,7 @@
 
     </html>
 
-   -//-
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 TAGS USADAS EM FORMATAÇÃO DE TEXTO
@@ -50,6 +50,7 @@ TAGS USADAS EM FORMATAÇÃO DE TEXTO
     
     </body>
     
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     
 TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
 
@@ -89,6 +90,7 @@ TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
     
     </body>
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 -CRIAÇÃO DE HYPER LINKS-
 
@@ -107,6 +109,7 @@ TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
     
     </body>
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 -PARA CRIACAÇÃO DE TABELAS-
 
@@ -139,6 +142,8 @@ TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
 
       </body
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 -PODEMOS ADCIONAR IMAGENDS NA TABLE E LINKS, ATRAVES DAS TAGS -
 
     <a href=""></a>
@@ -148,7 +153,8 @@ TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
 
 -PODEMOS TAMBÉM DEFINIR WIDTH DE IMAGENDS COM PORCENTAGENS-
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 -PARA DEFINIRMOS O TAMANHO DAS ROWS PODEMOS UTLIZAR OS CODIGOS-
 
@@ -157,6 +163,7 @@ TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
 
     <!-- Usado para definir a quantidade de colunas que a data irá ocupar -->
     <td colspan="2">
+
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -184,10 +191,41 @@ TAGS PARA LISTAS NÃO ORDENAS E ORDENADAS
 
         <input type="text">
 
-        <input type="submit">
+        <!-- No caso dos INPUT com o tipo SUBMIT devemos usar o value para adicionar um nome ao botão -->
+        <input type="submit" value="">
 
         <input type="password">
 
       </form>
+
+    </body>
+
+-DENTRO DO FORM PODEMOS USAR OUTRAS TAG PARA EXPANDIR A OPÇÃO DE COLETA DE DADOS-
+
+  Exemplo:
+
+    <!doctype html>
+
+    <head>
+
+      <title> FORMULÁRIOS </title>
+      <meta charset="utf-8">
+
+    </head>
+
+    <boby>
+
+      <select>
+
+        <option> Podemos usar a tag OPTION </option>
+        <option> Para criarmos uma caixa de opções </option>
+        <option> Mas e recomendado a usar essa tag com grande quantidade de opções </option>
+
+      </select>
+
+      <h2> MAIS OPÇÕES </h2>
+
+      <!-- A tag TEXTAREA serve para adicionar um campo de texto para escrever grandes quantidades de caracteres -->
+      <textarea></textarea>
 
     </body>
